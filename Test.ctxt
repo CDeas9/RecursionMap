@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=point1x\ point1y\ point2x\ point2y
+comment0.target=int\ numPaths2(int,\ int,\ int,\ int)
+numComments=1

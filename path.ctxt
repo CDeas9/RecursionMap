@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=numSouth\ numEast
+comment0.target=int\ numPaths(int,\ int)
+comment0.text=\n\ Counts\ the\ number\ of\ paths\ between\ the\ origin\ and\ a\ second\ point\ made\ by\ moving\ \n\ south\ and\ east.\n\ \n\ @param\ \ numsouth\ the\ amount\ of\ units\ south\n\ @param\ \ numEast\ the\ amount\ of\ units\ \n\ @return\ \ \ \ the\ number\ of\ paths\ between\ the\ two\ points\n
+numComments=1
